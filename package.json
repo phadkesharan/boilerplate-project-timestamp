@@ -1,10 +1,11 @@
 {
 	"name": "fcc-api-projects-boilerplate",
+	"author": "Sharan Phadke",
 	"version": "0.0.1",
 	"description": "An FCC Backend Challenge",
 	"main": "index.js",
 	"scripts": {
-		"start": "node index.js"
+		"start": "nodemon index.js"
 	},
 	"dependencies": {
 		"express": "^4.12.4",
